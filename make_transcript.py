@@ -4,8 +4,8 @@ from google.cloud import speech_v1p1beta1 as speech
 
 # load audio file names
 
-data_folder1 = '/home/dsail/sejeong/2023/Dementia/Data/MADReSS/sample'
-data_folder2 = '/home/dsail/sejeong/2023/Dementia/Data/MADReSS/train'
+data_folder1 = '/PATH/to/data/Dementia/Data/MADReSS/sample'
+data_folder2 = '/PATH/to/data/Dementia/Data/MADReSS/train'
 
 file_list1 = os.listdir(data_folder1)
 file_list2 = os.listdir(data_folder2)
