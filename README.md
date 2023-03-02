@@ -1,4 +1,4 @@
-# MakeTranscription
+# 📜 Make Transcription ✍️
 ## 1. Pretrained Model 
 1. OpenAI Whisper  
 2. XLS-R
