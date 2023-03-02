@@ -12,3 +12,6 @@ corpus = []
 for file_name in file_list :
     result = model.transcribe(f"{AUDIO_DIR}{file_name}")
     corpus.append(result["text"])
+
+    
+    
